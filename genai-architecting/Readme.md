@@ -9,7 +9,7 @@ greatly raise in cost.
 
 They want to invest in an AI-PC where they can afford spend of 10-15k.
 They have 300 active students, and students are located within the city
-of Tel Aviv, Israel.
+of Nagasaki, Japan.
 
 ## Assumptions
 
