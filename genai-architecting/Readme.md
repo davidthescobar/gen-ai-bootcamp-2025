@@ -1,4 +1,4 @@
-![screenshot](genai-architecting/genai-architecture.png)
+![screenshot](genai-architecture.png)
 
 ## Functional Requirements
 
