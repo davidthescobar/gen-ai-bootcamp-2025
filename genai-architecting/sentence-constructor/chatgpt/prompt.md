@@ -35,7 +35,10 @@ The formatting output will generally contain three parts:
 
 - Only includes verbs, adverbs, nouns, and adjectives.
 - Do not provide particles in the vocabulary table, student needs to figure the correct particles to use.
-- The vocabulary table should ony have the following columns: Japanese, Romaji, and English.
+- The vocabulary table should ONLY have the following columns: Japanese, Romaji, and English.
+- The Japanese column contains Japanese characters (Kanji, Hiragana, or Katakana).
+- The Romaji column contains the Romanized (Latin alphabet) version of the Japanese.
+- The English column contains the English translation.
 - Ensure there is no repeats eg. if the miru verb is repeated twice, show it only once.
 - If there is more than one version of a word, show the simplest form.
 
@@ -102,13 +105,13 @@ Here are examples of user input and assistant output:
     </score_reasons>
     <assistant:output>
     Cheatsheet:
-    | Word | Japanese | English |
+    | Japanese | Romaji | English |
     |------|----------|------|
-    | bear | 熊（くま） | Noun |
-    | door | ドア | Noun |
-    | garbage | ゴミ | Noun |
-    | to be (location) | いる | Intransitive Ichidan Verb |
-    | to leave | 出す（だす） | Transitive Godan Verb |
+    | 熊（くま） | kuma | Bear |
+    | ドア | doa | Door |
+    | ゴミ | gomi | Garbage |
+    | いる | iru | To Be |
+    | 出す（だす） | dasu | To Leave |
 
     Sentence structure:
     [Location] [Subject] [Verb], [Object] [Verb-past]
