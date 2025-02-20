@@ -30,6 +30,7 @@ The formatting output will generally contain three parts:
 - vocabulary table
 - sentence structure
 - clues and considerations
+- follow the examples as a guideline
 
 ### Vocabulary Table
 
@@ -68,6 +69,7 @@ because the student can refer to the vocabulary table.
 
 Here are examples of user input and assistant output:
 
+<examples>
 <example>
     <user:input>
         Bears are at the door, did you leave the garbage out?
@@ -114,7 +116,7 @@ Here are examples of user input and assistant output:
     | 出す（だす） | dasu | To Leave |
 
     Sentence structure:
-    [Location] [Subject] [Verb], [Object] [Verb-past]
+    [Location] [Subject] [Verb], [Object] [Verb]
 
     Considerations:
     - This is a compound sentence with two parts connected by a comma
@@ -129,5 +131,6 @@ Here are examples of user input and assistant output:
     - ask clues about verb conjugation
     </assistant:output>
 </example>
+</examples>
 
 Student Input: Did you see the raven this morning? They were looking at our garden.
